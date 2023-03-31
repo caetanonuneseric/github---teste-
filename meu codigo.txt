@@ -1,2 +1,6 @@
 oioadwdlsl hdbiabdibaubas
+<<<<<<< HEAD
 eric
+=======
+nova linha
+>>>>>>> ec03a418e4a433331feca5da4996d9d5d22a2035
